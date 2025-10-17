@@ -2,7 +2,7 @@ Subject: Enquiry on Hong Kong Food Waste Recycling Data - GCAP 3226 Research Pro
 
 Dear Environmental Protection Department Team,
 
-I am Liu Wai Man, a student enrolled in the GCAP 3226 course at Hong Kong Baptist University. My research project focuses on analyzing the effectiveness of Hong Kong’s food waste recycling initiatives, particularly in terms of service targeting, public housing participation, and recycling efficiency. I would be grateful if you could provide the following data to support my study:
+I am Liu Wai Man, a student enrolled in the GCAP 3226 course at Hong Kong Baptist University. Our research topic is solid waste charging scheme with a focus on food waste. I would be grateful if you could provide the following data to support my study:
 
 1. Food Waste Recycling Scheme & PRH FWSRBs
 
