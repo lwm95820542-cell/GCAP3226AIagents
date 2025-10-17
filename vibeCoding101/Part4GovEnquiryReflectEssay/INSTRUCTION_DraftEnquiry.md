@@ -1,76 +1,28 @@
-# Instruction File: Draft Government Enquiry
+Subject: Enquiry on Hong Kong Food Waste Recycling Data - GCAP 3226 Research Project
 
-## Input
-Read the following project materials:
-- /workspaces/GCAP3226AIagents/Team[X]_[ProjectName]/README.md
-- /workspaces/GCAP3226AIagents/Team[X]_[ProjectName]/Project_Roadmap_Team[X].md
-- Any relevant analysis files from the team folder
+Dear Environmental Protection Department Team,
 
-## Process
-1. Analyze the project to identify:
-   - What data is already available (from data.gov.hk, web crawling, etc.)
-   - What data is NOT publicly available but needed for the analysis
-   - Which government department/bureau holds this data
+I am Liu Wai Man, a student enrolled in the GCAP 3226 course at Hong Kong Baptist University. My research project focuses on analyzing the effectiveness of Hong Kong’s food waste recycling initiatives, particularly in terms of service targeting, public housing participation, and recycling efficiency. I would be grateful if you could provide the following data to support my study:
 
-2. Draft a formal enquiry email/letter that includes:
-   - **Subject line**: Clear and specific
-   - **Introduction**: 
-     * Your name and affiliation (HKBU student, GCAP 3226 course)
-     * Brief description of your research project
-   - **Data Request**:
-     * Specific data items needed (be precise!)
-     * Preferred format (CSV, Excel, PDF report, etc.)
-     * Time period covered (if applicable)
-   - **Purpose**:
-     * How the data will be used (academic research, policy analysis)
-     * How it contributes to understanding public policy
-   - **References**:
-     * Mention Code on Access to Information if appropriate
-     * Reference any publicly available related data
-   - **Contact Information**:
-     * Your email address
-     * Expected response timeline (reasonable)
-   - **Closing**: Professional and courteous
+1. Food Waste Recycling Scheme & PRH FWSRBs
 
-3. Create TWO versions:
-   - **Version A**: Formal letter format (for official submission)
-   - **Version B**: Email format (for online enquiry forms)
+◦ Please clarify the core service targets (commercial/industrial entities or households) of the Food Waste Recycling Scheme and the basis for this classification (e.g., 2023-2024 recycling volume breakdown).
 
-4. Add notes explaining:
-   - Why this specific data is needed
-   - Alternative data sources if this request is denied
-   - Follow-up questions to prepare
+◦ Confirm the calculation methodology for the "PRH estate participation rate" (e.g., whether it measures estate coverage or household participation) and the core data used to measure the operational efficiency of Food Waste Smart Recycling Bins (FWSRBs), such as the 2024 daily average recycling volume.
 
-## Output
-Save the following files:
-- /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/enquiry_draft_letter.md
-- /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/enquiry_draft_email.md
-- /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/enquiry_notes.md
+2. Smart Food Waste Recycling Programme (Public Rental Housing)
 
----
+◦ Please provide the recycling rate of the Smart Food Waste Recycling Programme (Public Rental Housing).
 
-## How to Use This File
+For your reference, relevant public documents include:
 
-Simply send this file path to the AI agent:
-```
-/workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/INSTRUCTION_DraftEnquiry.md
-```
+• Food Waste Recycling Schemes: https://www.wastereduction.gov.hk/zh-hk/waste-reduction-programme/food-waste-recycling-schemes
 
-The agent will:
-1. Read your project materials
-2. Generate the enquiry drafts
-3. Save them to the output locations
+• FWSRBs in Public Residential Housing: https://www.info.gov.hk/gia/general/202401/24/P2024012400339.htm?fontSize=1
 
-Then review the outputs and provide feedback for improvements!
+The data will be used for academic research and policy analysis. I would prefer the data in Excel or CSV format (if available) and covering the period of 2023-2024. Could you please respond within 4 weeks? Feel free to email me if you need more details.
 
----
+Thank you for your help!
 
-## Example Customization
-
-Replace `[X]` and `[ProjectName]` with your actual team folder, for example:
-- Team1_FluShot
-- Team2_BusRouteCoordination
-- Team3_Typhoon
-- Team4_SolidWasteCharging
-- Team5_GreenCommunity
-- Team6_BusStopMerge
+Best regards,
+Liu Wai Man
